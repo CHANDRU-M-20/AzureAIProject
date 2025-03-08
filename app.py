@@ -1,3 +1,7 @@
+
+# Image Classification using Azure Computer Vision API and Cosine Similarity with recommendation system.
+
+
 import os
 import json
 import requests
