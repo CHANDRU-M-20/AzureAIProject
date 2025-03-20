@@ -48,20 +48,26 @@ This project implements an image classification and recommendation system using 
 - Run the script to extract features and compute similarity scores.
 - The system will output a ranked list of similar images.
 
-## Example Output
-```
-Image: image1.jpg
-Similar Images:
-1. image2.jpg (Similarity: 0.89)
-2. image3.jpg (Similarity: 0.85)
-...
-```
+`
 
 ## Future Enhancements
 - Implement a web-based UI for image upload and recommendations.
 - Optimize feature extraction using deep learning models.
 - Integrate with a database for storing image embeddings.
 
-[POC 2.pdf](https://github.com/user-attachments/files/19372508/POC.2.pdf)
+![image](https://github.com/user-attachments/assets/440fb367-3346-4d2f-9fed-a792f94069ca)
+## Recommended Images
+![image](https://github.com/user-attachments/assets/50b5790a-580d-49b3-a5c3-9847ebe316e4)
+![image](https://github.com/user-attachments/assets/8ad7aaee-45c9-4d2a-ae45-b0ed4ed19fde)
+
+
+### Text Search using (Computer vision Vectorize Text)
+![image](https://github.com/user-attachments/assets/ebf8a7bb-e4b9-4126-a658-0e5e7478072d)
+![image](https://github.com/user-attachments/assets/649d6e98-e3f7-4eec-b658-9770798a9c68)
+
+
+
+
+
 
 
