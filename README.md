@@ -62,9 +62,6 @@ Similar Images:
 - Optimize feature extraction using deep learning models.
 - Integrate with a database for storing image embeddings.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
+[POC 2.pdf](https://github.com/user-attachments/files/19372508/POC.2.pdf)
 
-## Contact
-For any questions or support, reach out to [Your Name] at [your-email@example.com].
 
